@@ -12,6 +12,7 @@
     "johnpapa.vscode-peacock",
     "ritwickdey.liveserver",
     "paulmolluzzo.convert-css-in-js",
-    "irongeek.vscode-env"
+    "irongeek.vscode-env",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
